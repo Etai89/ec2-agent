@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+twilio
+paramiko
+python-dotenv
